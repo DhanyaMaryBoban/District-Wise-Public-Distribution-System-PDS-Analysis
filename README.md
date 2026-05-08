@@ -19,6 +19,7 @@ The Public Distribution System (PDS) ensures food security to millions of househ
 ## 🛠️ Tools Used
 - Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- Dashboard: Power BI (KPIs, Filter, Column chart, Bar chart, Line Chart)
 
 
 ## 🧹 Data Cleaning and Preprocessing
