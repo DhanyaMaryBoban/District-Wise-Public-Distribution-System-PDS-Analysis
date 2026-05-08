@@ -1,0 +1,2 @@
+# District-Wise-Public-Distribution-System-PDS-Analysis
+It contains district-wise PDS operations including allocation and distribution of rice and wheat to indicate its efficiency level. The analysis helps to spot the best /worst performance regions. Indicate there is correlation between food grains. Recommended to strengthen monitoring of PDS operations, upgrade logistics &amp; infrastructure facilities. 
